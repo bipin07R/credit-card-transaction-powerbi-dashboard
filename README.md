@@ -51,11 +51,11 @@ Identifies top merchants and category spending distribution.
 
 ### Department Analysis
 
-![Department Analysis](department_analysis.png)
+![Department Analysis](Executive%20Overview.png)
 
 ### Merchant Analysis
 
-![Merchant Analysis](merchant_analysis.png)
+![Merchant Analysis](Merchang%20%26%20Category%20Analysis.png)
 
 ## Data Model
 
