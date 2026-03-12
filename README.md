@@ -51,7 +51,7 @@ Identifies top merchants and category spending distribution.
 
 ### Department Analysis
 
-![Department Analysis](department_analysis.png)
+![Department Analysis](Department%20Analysis.png)
 
 ### Merchant Analysis
 
